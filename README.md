@@ -9,19 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Taha20&label=Profile%20views&color=bd93f9&style=flat" alt="profile views" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working as **Backend Java Developer Intern @ EgronX**
-- 💼 Previously worked at **Cairo International Airport** (.NET) and **Scale AI** (Expert Coder)
-- 🌱 Passionate about **backend development, system design, and AI**
-- 💡 I enjoy building scalable systems and optimizing database performance
-- 📫 Reach me at: **mhmdth276@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/mtaha20/)**
-- ⚡ Fun fact: **I love turning coffee into code ☕💻**
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -61,63 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🎮 GamerMajlis**
-- Next-gen gaming platform with tournaments & marketplace
-- Built with **Java Spring Boot** + **AI Chatbot**
-- RESTful APIs for community features
-
-</td>
-<td width="50%">
-
-**🍳 Wasfit Mama**
-- Dynamic recipe discovery platform
-- **Django** backend with role-based access
-- Personalized recommendations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📚 Learning Management System**
-- Course management with **Spring Boot** + **MySQL**
-- REST APIs with role-based security
-- 3-tier architecture design
-
-</td>
-<td width="50%">
-
-**💼 Customer Service System**
-- Desktop app with **C# Windows Forms**
-- CRN-based search & Excel exports
-- Built for Overseas Gas company
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Taha20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Taha20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Taha20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
