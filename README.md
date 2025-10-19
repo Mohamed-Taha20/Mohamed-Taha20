@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Taha&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=51&descSize=25" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Taha20&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Taha;Backend+Developer+%7C+Java+%26+.NET;Information+Systems+Student;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <h3 align="center">🎓 Faculty of Computers and Artificial Intelligence, Cairo University</h3>
 
@@ -44,4 +44,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Taha20&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
