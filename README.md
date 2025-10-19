@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Taha&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20.NET&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Taha&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=50&descSize=25" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Taha;Backend+Developer+%7C+Java+%26+.NET;Information+Systems+Student;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,12 +20,6 @@
 </a>
 <a href="mailto:mhmdth276@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/Mohamed_Taha19/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://discord.gg/mohammed_taha" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 </p>
 
