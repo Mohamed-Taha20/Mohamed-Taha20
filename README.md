@@ -3,8 +3,6 @@
 </div>
 
 <h3 align="center">🎓 Faculty of Computers and Artificial Intelligence, Cairo University</h3>
-<h4 align="center">GPA: 3.44/4.0 | Ranked 49th out of 1200+ Students</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Taha20&label=Profile%20views&color=bd93f9&style=flat" alt="profile views" />
 </p>
@@ -55,15 +53,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Taha20&theme=dracula&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="trophy graph" />
 </div>
 
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Taha20&radius=16&theme=dracula&area=true&hide_border=false" height="300" alt="activity graph" />
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
