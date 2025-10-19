@@ -1,65 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Taha;Backend+Developer;Information+Systems+Student;Top+4%25+at+Cairo+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Taha;Backend+Developer+%7C+Java+%26+.NET;Information+Systems+Student;Top+4%25+at+Cairo+University+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 Faculty of Computers and Artificial Intelligence, Cairo University</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Taha20&label=Profile%20views&color=bd93f9&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Taha20&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
 </p>
+
+<h3 align="center">🎓 Faculty of Computers and Artificial Intelligence, Cairo University</h3>
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mtaha20/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:mhmdth276@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/Mohamed_Taha19/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
-<a href="https://discord.gg/mohammed_taha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mtaha20/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mhmdth276@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://leetcode.com/u/Mohamed_Taha19/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://discord.gg/mohammed_taha" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Languages:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
-
-<p align="center">
-  <strong>Backend & Frameworks:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-</p>
-
-<p align="center">
-  <strong>Databases & Tools:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Taha20&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Taha20&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="160" alt="languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Taha20&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak" />
+#### Languages
+<img src="https://skillicons.dev/icons?i=java,cs,python,cpp,js,sql" />
+
+#### Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=spring,dotnet,django" />
+
+#### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,linux,postman" />
+
 </div>
 
 ---
@@ -67,7 +49,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Taha20&theme=dracula&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Taha20&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
 ---
